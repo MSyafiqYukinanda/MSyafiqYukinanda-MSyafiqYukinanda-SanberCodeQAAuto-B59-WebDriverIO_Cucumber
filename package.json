@@ -1,0 +1,20 @@
+{
+  "name": "sanber-code-qa---webio-cucumber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@wdio/cli": "^9.1.5",
+    "@wdio/cucumber-framework": "^9.1.3",
+    "@wdio/local-runner": "^9.1.5",
+    "@wdio/spec-reporter": "^9.1.3",
+    "@wdio/visual-service": "^6.2.0",
+    "cucumber": "^6.0.7"
+  }
+}
